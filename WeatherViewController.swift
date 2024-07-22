@@ -100,6 +100,7 @@ extension WeatherViewController: UICollectionViewDataSource, UICollectionViewDel
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         if let url = weatherItems[safe: indexPath.row]?.videoURL {
             videoPlayer.playVideo(videoURL: url)
+            collectionView.scrollToItem(at: indexPath, at: .centeredHorizontally, animated: true)
         }
     }
     
