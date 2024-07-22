@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Anastasia on 20.07.2024.
+  
+*/
+
+"weather_sun" = "Ясно";
+"weather_rain" = "Дождь";
+"weather_fog" = "Туман";
+"weather_cloud" = "Облачно";
+"weather_thunder" = "Гроза";
+"weather_snow" = "Снег";
+"weather_wind" = "Ветренно";

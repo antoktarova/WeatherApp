@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Anastasia on 20.07.2024.
+  
+*/
+
+"weather_sun" = "Sunny";
+"weather_rain" = "Rainy";
+"weather_fog" = "Foggy";
+"weather_cloud" = "Cloudy";
+"weather_thunder" = "Thunder";
+"weather_snow" = "Snowy";
+"weather_wind" = "Windy";
